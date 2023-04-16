@@ -22,7 +22,7 @@ function verificaChute(chute){
         <div>O número secreto é maior <i class="fa-sharp fa-solid fa-arrow-up">`
     }
 }
-
+ 
 
 function chuteInvalido(numero) {
     return Number.isNaN(numero)
